@@ -12,15 +12,19 @@ I was tasked with providing more information about temperature trends before an 
 
 # Results
 - The following data frame shows the comparison of June and December temperatures in Oahu
+
 ![This is an image](https://github.com/Jahill17/surfs_up/blob/main/June_Dec_Summary_DF.png)
 
 - The following graph shows the June temperature range and frequency in Oahu
+
 ![This is an image](https://github.com/Jahill17/surfs_up/blob/main/June_Temps.png)
 
 - The following graph shows the December temperature range and frequency in Oahu
+
 ![This is an image](https://github.com/Jahill17/surfs_up/blob/main/Dec_Temps.png)
 
 - The following data frame shows the temperature taken by station for June and December
+
 ![This is an image](https://github.com/Jahill17/surfs_up/blob/main/Station_Summary.png)
 
 # Summary of Results
